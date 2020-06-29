@@ -1,1 +1,0 @@
-## Accordion using CSS only
